@@ -1,0 +1,3 @@
+module Verb
+  VERSION = "0.0.1"
+end
